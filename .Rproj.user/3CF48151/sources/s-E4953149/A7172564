@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573650753275.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2006192261",
+    "id" : "A7172564",
+    "lastKnownWriteTime" : 1443815580,
+    "last_content_update" : 1443815580,
+    "path" : "~/My R Packages/ABN/R/gen.R",
+    "project_path" : "R/gen.R",
+    "properties" : {
+    },
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

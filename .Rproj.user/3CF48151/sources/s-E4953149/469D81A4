@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573653613756.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "469D81A4",
+    "lastKnownWriteTime" : 1443815580,
+    "last_content_update" : 1443815580,
+    "path" : "~/My R Packages/ABN/R/Analysis.R",
+    "project_path" : "R/Analysis.R",
+    "properties" : {
+        "cursorPosition" : "64,7",
+        "scrollLine" : "41"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

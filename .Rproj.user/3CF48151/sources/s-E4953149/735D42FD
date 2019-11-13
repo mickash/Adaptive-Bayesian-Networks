@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573650311051.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "735D42FD",
+    "lastKnownWriteTime" : 1443815581,
+    "last_content_update" : 1443815581,
+    "path" : "~/My R Packages/ABN/R/validate.R",
+    "project_path" : "R/validate.R",
+    "properties" : {
+        "cursorPosition" : "71,59",
+        "scrollLine" : "61"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

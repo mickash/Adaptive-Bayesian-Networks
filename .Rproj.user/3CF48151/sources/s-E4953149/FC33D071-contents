@@ -1,0 +1,11 @@
+Package: ABN
+Type: Package
+Title: Adaptive Bayesian Networks.
+Author: Mike Ashcroft <mikeashcroft@intas.com>
+Maintainer: Mike Ashcroft <mikeashcroft@inatas.com>
+Description: Create, work with and serialize Bayesian networks
+License: GPL-3
+Imports: RODBC, igraph, stringr
+Version: 5.0
+Date: 2015-10-02
+Packaged: 2015-10-02 19:53:16 UTC; User

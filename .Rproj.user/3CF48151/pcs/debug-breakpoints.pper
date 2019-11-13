@@ -1,0 +1,21 @@
+{
+    "debugBreakpointsState" : {
+        "breakpoints" : [
+            {
+                "editor_line_number" : 24,
+                "editor_state" : 1,
+                "function_name" : "gen.dirichlet",
+                "function_steps" : "3",
+                "id" : 1,
+                "is_package_breakpoint" : true,
+                "is_pending_debug_completion" : false,
+                "line_number" : 24,
+                "needs_updated_steps" : false,
+                "package_name" : "ABN",
+                "path" : "~/My R Packages/ABN/R/gen.R",
+                "state" : 1,
+                "type" : 0
+            }
+        ]
+    }
+}

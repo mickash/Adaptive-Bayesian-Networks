@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573649480973.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "453337023",
+    "id" : "3BE4117C",
+    "lastKnownWriteTime" : 1443815580,
+    "last_content_update" : 1443815580,
+    "path" : "~/My R Packages/ABN/R/DebugWrappers.R",
+    "project_path" : "R/DebugWrappers.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
